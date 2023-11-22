@@ -12,7 +12,7 @@ int main() {
     }
 
     if (a == rev)
-        printf("Palindrome");
+        printf("True");
     else
-        printf("Not Palindrome");
+        printf("False");
 }
